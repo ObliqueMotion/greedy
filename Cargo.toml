@@ -3,6 +3,11 @@ name = "greedy"
 version = "0.0.0"
 authors = ["Erik Nordin <aeketn@gmail.com>"]
 edition = "2018"
+readme = "README.md"
+license = "MIT"
+documentation = "https://docs.rs/greedy"
+description = "A graph library with various types of graphs."
+repository = "https://github.com/ObliqueMotion/greedy"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
